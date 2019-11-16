@@ -1,0 +1,9 @@
+# import ./my-fragment
+# import ./my-second-fragment
+query {
+  foo {
+    id
+    ...MyFragment
+    ...MySecondFragment
+  }
+}

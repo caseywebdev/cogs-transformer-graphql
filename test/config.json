@@ -1,0 +1,1 @@
+{"transformers": [{"name": ".", "only": "**/*.graphql"}]}

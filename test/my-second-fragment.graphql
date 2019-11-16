@@ -1,0 +1,4 @@
+fragment MySecondFragment on Foo {
+  id
+  name
+}
